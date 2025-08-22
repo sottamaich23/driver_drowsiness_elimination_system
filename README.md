@@ -13,6 +13,17 @@ A system designed to enhance road safety by proactively detecting and alerting d
   * **Responsive Design:** Built with `Tailwind CSS` to ensure the interface is clean, intuitive, and works on various screen sizes.
 
 -----
+<br>
+
+### 🖼️ Output Example
+
+Here's a glimpse of the system in action:
+
+<img src="images/Output.png" alt="Driver Drowsiness Detection Output" width="600">
+
+<br>
+
+-----
 
 ### 🚀 Tech Stack
 
